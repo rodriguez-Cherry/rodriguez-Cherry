@@ -1,16 +1,21 @@
-## Hi there 👋
+Angely Rodriguez Rivera</h1>
 
-<!--
-**rodriguez-Cherry/rodriguez-Cherry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  Tu especialidad: Backend / Frontend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sobre mí
+
+Soy desarrolladora de software con enfoque profesional en el diseño, la construcción y el mantenimiento de soluciones tecnológicas confiables. Me interesa escribir código limpio, trabajar en equipo y entregar productos que resuelvan problemas reales del negocio.
+
+
+ Tecnologías
+
+
+ Lenguajes  JavaScript
+ Frontend React, HTML, CSS,
+ Herramientas  GitHub
+
+
+
+
+
